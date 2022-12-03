@@ -1,3 +1,6 @@
 .class
 game.class
-../inputs.txt
+.txt
+day1/puzzle1.txt
+day2/puzzle2.txt
+day3/inputs.txt
